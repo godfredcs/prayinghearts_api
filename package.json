@@ -1,0 +1,19 @@
+{
+  "name": "prayinghearts_api",
+  "version": "1.0.0",
+  "description": "API for prayinghearts: a platform for posting and commenting on prayer topics built with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godfredcs/prayinghearts_api.git"
+  },
+  "author": "Godfred Addai Boateng <addaiz.godfred@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godfredcs/prayinghearts_api/issues"
+  },
+  "homepage": "https://github.com/godfredcs/prayinghearts_api#readme"
+}
